@@ -1,22 +1,4 @@
-<!doctype html>
-<html>
-    <head>
-        <title>My experiment</title>
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-        <script src="scripts/jquery-1.11.1.js"></script>
-        <script src="scripts/jquery-ui.min.js"></script>
-        <script src="jsPsych-4.0/jspsych.js"></script>
-        <script src="jsPsych-4.0/plugins/jspsych-text.js"></script>
-        <script src="jsPsych-4.0/plugins/jspsych-call-function.js"></script>
-        <script src="jsPsych-4.0/plugins/jspsych-text.js"></script>
-        <script src="jsPsych-4.0/plugins/jspsych-single-stim.js"></script>
-        <script src="jsPsych-4.0/plugins/jspsych-survey-likert.js"></script>
-        <link href="css/jspsych.css" type="text/css" rel="stylesheet"></link>
-    </head>
-    <body>
-    </body>
-    <script>
-    var userChoice;
+var userChoice;
 var score;
 var myFuncCalls = -1;
 roundNum = 0;
@@ -345,9 +327,4 @@ var debrief_block = {
       
     
 });
-
-</script>
-
-</html>
-
 
