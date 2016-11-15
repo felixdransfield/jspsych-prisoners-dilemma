@@ -1,6 +1,6 @@
-A browser based version of the [Prisoners dilemma game](http://en.wikipedia.org/wiki/Prisoner%27s_dilemma) designed to assess social paranoia.
+A browser based version of the [Prisoners dilemma game](http://en.wikipedia.org/wiki/Prisoner%27s_dilemma) designed to assess social paranoia. Developed by ([Felix Dransfield](https://github.com/felixdransfield)
 
-To begin the trial open the index.html file, the trial lasts for 15 rounds with a random amount of time betwwen each round, additionally the particpant is asked to rate the trustworthiness of the other player after each round. data from the trial is saved to a csv trial.
+To begin the trial open the index.html file, the trial lasts for 15 rounds with a random amount of time betwwen each round, additionally the particpant is asked to rate the trustworthiness of the other player after each round. data from the trial is saved to a .csv File.
 
 Developed with jsPsych
 
